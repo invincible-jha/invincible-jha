@@ -26,7 +26,7 @@
 - **AI Consulting for Enterprises**: Partnering with businesses to integrate advanced AI solutions that drive growth, particularly in healthcare and digital health.
   
 ## 📫 How to reach me ...
-- Email: [vikram@puchodigitalhealth.com](mailto:vikram@puchodigitalhealth.com)
+- Email: [invinciblejha@invinciblejha.xyz](mailto: invinciblejha@invinciblejha.xyz)
 - LinkedIn: [Vikram Jha](https://www.linkedin.com/in/invinciblejha)
 - GitHub: [@invincible-jha](https://github.com/invincible-jha)
 
