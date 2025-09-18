@@ -58,7 +58,7 @@ Focus areas: Advanced multi‑agent platforms,RL powered LLMs, RAG/LLMOps, healt
 
 
 
-> The seven agentic platforms above mirror the structure/timelines in your master portfolio. :contentReference[oaicite:4]{index=4}
+> The six agentic platforms above mirror the structure/timelines in your master portfolio. :contentReference[oaicite:4]{index=4}
 
 ---
 
