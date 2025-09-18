@@ -128,7 +128,7 @@ Focus areas: Advanced multi‑agent platforms,RL powered LLMs, RAG/LLMOps, healt
 
 ---
 
-## 🏢 Enterprise Builder–Translator Appendix (anonymized)
+## 🏢 Enterprise Builder–Translator Appendix
 
 > Clients masked for public GitHub. Outcomes are **headline deltas**; full N & 95% CI available privately.
 
@@ -141,7 +141,7 @@ Focus areas: Advanced multi‑agent platforms,RL powered LLMs, RAG/LLMOps, healt
 - **Smartphone OEM (2019–2020): On‑device voice query** — model footprint **<100 MB**.  
 - **Retail Tech ISV (APAC, 2016): Revenue optimization** — MAPE reduction **30%**.
 
-**Language packs used across deployments:** Hindi, Hinglish, Bengali, Tamil, Kannada, Marathi (add others as applicable).
+**Language packs used across deployments:** English, Hindi, Bengali, Tamil, Kannada, Marathi & European Languages (add others as applicable).
 
 ---
 
