@@ -16,7 +16,7 @@ Focus areas: Advanced multi‑agent platforms,RL powered LLMs, RAG/LLMOps, healt
 ---
 
 ## 📊 Quick stats
-- **22 production systems** • **6 agentic platforms** • **15 healthcare/biomed programs** • **14+ years** building AI
+- **22 production systems** • **6 agentic platforms** • **15 healthcare/biomed programs** • **15+ years** building AI
 
 ---
 
